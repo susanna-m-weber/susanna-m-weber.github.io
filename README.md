@@ -1,5 +1,5 @@
 ## About me 
-I’m currently a Biomedical Engineering Ph.D. student at Columbia University, where I'm advised by [Dr. Christoph Juchem ↗](https://classes.berkeley.edu/content/2023-spring-physics-111a-101-lec-101](https://www.engineering.columbia.edu/faculty/christoph-juchem){:target="_blank"} as part of the [MR SCIENCE Lab ↗](https://juchem.bme.columbia.edu/){:target="_blank"}. My resarch focuses on multi-coil cardiac shimming - improving the homogeneity of the B0 field to acquire diagnostically useful images at high fields.  
+I’m currently a Biomedical Engineering Ph.D. student at Columbia University, where I'm advised by [Dr. Christoph Juchem↗](https://classes.berkeley.edu/content/2023-spring-physics-111a-101-lec-101](https://www.engineering.columbia.edu/faculty/christoph-juchem){:target="_blank"} as part of the [MR SCIENCE Lab↗](https://juchem.bme.columbia.edu/){:target="_blank"}. My resarch focuses on multi-coil cardiac shimming - improving the homogeneity of the B0 field to acquire diagnostically useful images at high fields.  
 &nbsp;
 &nbsp;
 
