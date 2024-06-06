@@ -11,6 +11,18 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
+ {% if site.google_analytics and jekyll.environment == 'production' %}
+ {% include analytics.html %}
+ {% endif %}
+ <meta name="description" content="Susanna Weber"/>
+ <meta name="description" content="Susaanna Weber Columbia"/>
+ <meta name="description" content="Christoph Juchem"/>
+ <meta name="description" content="MR Science Lab"/>
+ 
+<meta property=’og:title’ content='Susanna Weber'/>
+ <meta property=’og:description’ content='Susanna Weber's Online Portfolio'/>
+ <meta property=’og:url’ content='https://susanna-m-weber.github.io/'/>
+ <meta property="og:type" content='website'/>
   </head>
   <body>
     <div class="wrapper">
@@ -40,6 +52,13 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
+        <p class="view"><a href="https://www.linkedin.com/in/katielamar" target="_blank">LinkedIn</a></p>
+        <p class="view"><a href="{{ site.github.owner_url }}" target="_blank">GitHub</a></p>
+        <a href="https://github.com/susanna-m-weber/susanna-m-weber.github.io/blob/main/downloads/resume_2024.pdf"> Resume </a>
+        
+        
+       
+        
       </header>
       <section>
 
