@@ -4,9 +4,9 @@ I’m currently a Biomedical Engineering Ph.D. student at Columbia University, w
 &nbsp;
 
 ## Education
-Ph.D., Biomedical Engineering | Columbia University             		
-Minor, EECS | University of California, Berkeley (_May 2023_) 			        		
-B.A., Physics | University of California, Berkeley (_May 2023_)
+- Ph.D., Biomedical Engineering | Columbia University             		
+- Minor, EECS | University of California, Berkeley (_May 2023_) 			        		
+- B.A., Physics | University of California, Berkeley (_May 2023_)
 &nbsp;
 &nbsp;
 
@@ -14,10 +14,8 @@ B.A., Physics | University of California, Berkeley (_May 2023_)
 
  **Berkeley Student Learning Center** Lab Assistant 
 - [Basic Semiconductor Circuits](https://classes.berkeley.edu/content/2023-spring-physics-111a-101-lec-101) | _Term: Fall 2022 - Spring 2023_
-
 **Berkeley Student Learning Center** Physics Tutor 
 - [Introductory Electromagnetism, Waves, and Optics](https://classes.berkeley.edu/content/2024-spring-physics-7b-001-lec-001) | _Term: Spring 2022_
-
 **Berkeley Student Learning Center** Physics Tutor
 - [Introductory Physics](https://classes.berkeley.edu/content/2024-spring-physics-8a-001-lec-001) | _Term: Fall 2021 - Fall 2022_
 &nbsp;
