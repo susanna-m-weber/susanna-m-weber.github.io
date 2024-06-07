@@ -15,12 +15,16 @@ I’m currently a Biomedical Engineering Ph.D. student at Columbia University, w
 ## Past Projects
 
 **Cardiac MRI Segmentation (_Columbia University | May 2023_)**
+- test test
 
 **ALULA Avionics System (_Berkeley STAR | August 2022 - May 2023_)**
+- test test
 
 **MR to CT Translation using Transformers (_GE HealthCare | May 2022 - August 2022_)**
+- test test
 
 **Automated Photometry Measurements with MAGIC Atmospheric Minion (MAM) (_Max Plank Institute for Physics | May 2021 - July 2021_)** 
+- test test
 
 &nbsp;
 &nbsp;
