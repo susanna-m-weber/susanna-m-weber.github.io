@@ -1,5 +1,5 @@
 ## Research 
-I’m currently a Biomedical Engineering Ph.D. student at Columbia University, where I'm advised by [Dr. Christoph Juchem↗](https://www.engineering.columbia.edu/faculty/christoph-juchem) as part of the [MR SCIENCE Lab↗](https://juchem.bme.columbia.edu/). My resarch focuses on designing and building coils for multi-coil cardiac shimming - improving the homogeneity of the B0 field to acquire diagnostically useful images at high fields.  
+I’m currently a Biomedical Engineering Ph.D. student at Columbia University, where I'm advised by [Dr. Christoph Juchem](https://www.engineering.columbia.edu/faculty/christoph-juchem) as part of the [MR SCIENCE Lab](https://juchem.bme.columbia.edu/). My resarch focuses on designing and building coils for multi-coil cardiac shimming - improving the homogeneity of the B0 field to acquire diagnostically useful images at high fields.  
 
 &nbsp;
 &nbsp;
@@ -20,7 +20,7 @@ Implemented different an attention U-Net based architecture to segment the inner
 
 **ALULA Avionics System** \
 _Berkeley STAR | August 2022 - May 2023_\
-As the avionics lead for Berkeley's competition rocketry team, STAR, I oversaw the design and integration of the electronics in system used in the liquid engine test stand. We designed, assembled, and tested PCBs used during hot fire tests of the team's first liquid engine rocket. I and the rest of the avionics subteam were rsponsible for  control and monitoring of combustion during hotfire, which included integrating  sensors, microcontrollers, and communication systems. Adapted versions of these circuit board designs were implemented in STAR's first liquid engine flight vehicle, ALULA. 
+As the avionics lead for Berkeley's competition rocketry team, [STAR](https://stars.studentorg.berkeley.edu/subteams.html), I oversaw the design and integration of the electronics in system used in the liquid engine test stand. We designed, assembled, and tested PCBs used during hot fire tests of the team's first liquid engine rocket. I and the rest of the avionics subteam were rsponsible for  control and monitoring of combustion during hotfire, which included integrating  sensors, microcontrollers, and communication systems. Adapted versions of these circuit board designs were implemented in STAR's first liquid engine flight vehicle, ALULA. 
 
 **MR to CT Translation Using Deep Learning** \
 _GE HealthCare | May 2022 - August 2022_\
@@ -28,7 +28,7 @@ During my internship in the MR Applied Science Lab at GE Healthcare, I implement
 
 **Automated Photometry Measurements with MAM** \
 _Max Plank Institute for Physics | May 2021 - July 2021_ \
-As part of the the MAGIC telescope group, I implemented an automated photometric filter system in Python used by the MAGIC Atmospheric Minion, a camera system whose purpose is to assess atmospheric conditions before data acquisition by the telescope. 
+As a summer intern in the [MAGIC telescope group](https://www.mpp.mpg.de/forschung/magic), I implemented an automated photometric filter system in Python used by the MAGIC Atmospheric Minion, a camera system whose purpose is to assess atmospheric conditions before data acquisition by the telescope. 
 
 &nbsp;
 &nbsp;
