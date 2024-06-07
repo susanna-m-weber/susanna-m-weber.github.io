@@ -22,13 +22,13 @@ Implemented different an attention U-Net based architecture to segment the inner
 _Berkeley STAR | August 2022 - May 2023_\
 As the avionics lead for Berkeley's competition rocketry team, STAR, I oversaw the design and integration of the electronics in system used in the liquid engine test stand. We designed, assembled, and tested PCBs used during hot fire tests of the team's first liquid engine rocket. I and the rest of the avionics subteam were rsponsible for  control and monitoring of combustion during hotfire, which included integrating  sensors, microcontrollers, and communication systems. Adapted versions of these circuit board designs were implemented in STAR's first liquid engine flight vehicle, ALULA. 
 
-**MR to CT Translation Using Deep Learnign** \
+**MR to CT Translation Using Deep Learning** \
 _GE HealthCare | May 2022 - August 2022_\
 During my internship in the MR Applied Science Lab at GE Healthcare, I implemented a number of transformed-based architectures as well as generative adversarial networks for segmentation + identification of anatomical features in MR scans and modality translation, respectively. Both paired and unpaird approaches to MR to CT translation were tested using an implementation based on CycleGAN. 
 
 **Automated Photometry Measurements with MAM** \
 _Max Plank Institute for Physics | May 2021 - July 2021_ \
-As part of the the MAGIC telescope group, I implemented an automated photometric filter system used by the MAGIC Atmospheric Minion, whose purpose is to assess atmospheric conditions before data acquisition by the telescope. 
+As part of the the MAGIC telescope group, I implemented an automated photometric filter system in Python used by the MAGIC Atmospheric Minion, a camera system whose purpose is to assess atmospheric conditions before data acquisition by the telescope. 
 
 &nbsp;
 &nbsp;
