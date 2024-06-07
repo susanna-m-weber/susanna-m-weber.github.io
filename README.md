@@ -16,7 +16,7 @@ I’m currently a Biomedical Engineering Ph.D. student at Columbia University, w
 &nbsp;
 
 **Berkeley Student Learning Center** Physics Tutor 
-- [Introductory Electromagnetism, Waves, and Optics](https://classes.berkeley.edu/content/2024-spring-physics-7b-001-lec-001) | _Term: Spring 2022_
+- [Introductory Electromagnetism, Waves, & Optics](https://classes.berkeley.edu/content/2024-spring-physics-7b-001-lec-001) | _Term: Spring 2022_
 &nbsp;
 
 **Berkeley Student Learning Center** Physics Tutor
