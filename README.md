@@ -5,9 +5,9 @@ I’m currently a Biomedical Engineering Ph.D. student at Columbia University, w
 &nbsp;
 
 ## Education
-- Ph.D., Biomedical Engineering | Columbia University             		
+- Ph.D., Biomedical Engineering | Columbia University
+- B.A., Physics | University of California, Berkeley (_May 2023_)           		
 - Minor, EECS | University of California, Berkeley (_May 2023_) 			        		
-- B.A., Physics | University of California, Berkeley (_May 2023_)
 
 &nbsp;
 &nbsp;
