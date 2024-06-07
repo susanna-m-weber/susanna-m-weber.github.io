@@ -24,11 +24,11 @@ As the avionics lead for Berkeley's competition rocketry team, [STAR](https://st
 
 **MR to CT Translation Using Deep Learning** \
 _GE HealthCare | May 2022 - August 2022_\
-During my internship in the MR Applied Science Lab at GE Healthcare, I implemented a number of transformed-based architectures as well as generative adversarial networks for segmentation + identification of anatomical features in MR scans and modality translation, respectively. Both paired and unpaird approaches to MR to CT translation were tested using an implementation based on CycleGAN. 
+During my internship in the MR Applied Science Lab at GE Healthcare, I implemented a number of transformed-based architectures as well as generative adversarial networks for segmentation + identification of anatomical features in MR scans and modality translation, respectively. Both paired and unpaired approaches to MR to CT translation were tested using an implementation based on [CycleGAN](https://github.com/junyanz/CycleGAN). Vision transformers were used to identify anatomical structures of interest in magnitude chest scans, and to classify slices correspondingly. 
 
 **Automated Photometry Measurements with MAM** \
 _Max Plank Institute for Physics | May 2021 - July 2021_ \
-As a summer intern in the [MAGIC telescope group](https://www.mpp.mpg.de/forschung/magic), I implemented an automated photometric filter system in Python used by the MAGIC Atmospheric Minion, a camera system whose purpose is to assess atmospheric conditions before data acquisition by the telescope. 
+As a summer intern in the [MAGIC telescope group](https://www.mpp.mpg.de/forschung/magic), I developed a Python-based automated photometric filter system used by the MAGIC Atmospheric Minion, a camera system whose purpose is to assess atmospheric conditions before data acquisition by the telescope. 
 
 &nbsp;
 &nbsp;
