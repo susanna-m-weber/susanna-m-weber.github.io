@@ -21,5 +21,4 @@ I’m currently a Biomedical Engineering Ph.D. student at Columbia University, w
 
 **Berkeley Student Learning Center** Physics Tutor
 - [Introductory Physics](https://classes.berkeley.edu/content/2024-spring-physics-8a-001-lec-001) | _Term: Fall 2021 - Fall 2022_
-&nbsp;
-&nbsp;
+
