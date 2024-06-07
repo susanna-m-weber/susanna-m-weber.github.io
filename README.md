@@ -16,7 +16,7 @@ I’m currently a Biomedical Engineering Ph.D. student at Columbia University, w
 
 **Cardiac MRI Segmentation Using U-Nets** \
 _Columbia University, BMEN 4460 | May 2023_ \
-Implemented different an attention U-Net based architecture to segment the inner and outer wall of the right ventricle. The model was pre-trained using a 2D whole heart segmentation task using magnitude cardiac scans. Ventricle segmentation was performed on  short axis cine scans from the [The Right Ventricle Segmentation Challenge dataset](https://rvsc.projets.litislab.fr/). The current iteration of the model achieves a test DICE score of 0.8, on par with the leading three published models trained on the challenge dataset (see [Tran et. al](https://arxiv.org/abs/1604.00494)).
+Implemented different an attention U-Net based architecture to segment the inner and outer wall of the right ventricle. The model was pre-trained using a 2D whole heart segmentation task using magnitude cardiac scans. Ventricle segmentation was performed on  short axis cine scans from the [The Right Ventricle Segmentation Challenge dataset](https://rvsc.projets.litislab.fr/). The current iteration of the model achieves a test DICE score of 0.8, on par with the leading three published models trained on the challenge dataset (see [Tran 2017](https://arxiv.org/abs/1604.00494)).
 
 **ALULA Avionics System** \
 _Berkeley STAR | August 2022 - May 2023_\
