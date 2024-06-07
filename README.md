@@ -1,5 +1,6 @@
 ## Research 
-I’m currently a Biomedical Engineering Ph.D. student at Columbia University, where I'm advised by [Dr. Christoph Juchem↗](https://www.engineering.columbia.edu/faculty/christoph-juchem) as part of the [MR SCIENCE Lab↗](https://juchem.bme.columbia.edu/). My resarch focuses on multi-coil cardiac shimming - improving the homogeneity of the B0 field to acquire diagnostically useful images at high fields.  
+I’m currently a Biomedical Engineering Ph.D. student at Columbia University, where I'm advised by [Dr. Christoph Juchem↗](https://www.engineering.columbia.edu/faculty/christoph-juchem) as part of the [MR SCIENCE Lab↗](https://juchem.bme.columbia.edu/). My resarch focuses on designing and building coils for multi-coil cardiac shimming - improving the homogeneity of the B0 field to acquire diagnostically useful images at high fields.  
+
 &nbsp;
 &nbsp;
 
@@ -8,8 +9,23 @@ I’m currently a Biomedical Engineering Ph.D. student at Columbia University, w
 - Minor, EECS | University of California, Berkeley (_May 2023_) 			        		
 - B.A., Physics | University of California, Berkeley (_May 2023_)
 
+&nbsp;
+&nbsp;
 
-## UC Berkeley Teaching Experience 
+## Past Projects
+
+**Cardiac MRI Segmentation (_Columbia University | May 2023_)**
+
+**ALULA Avionics System (_Berkeley STAR | August 2022 - May 2023_)**
+
+**MR to CT Translation using Transformers (_GE HealthCare | May 2022 - August 2022_)**
+
+**Automated Photometry Measurements with MAGIC Atmospheric Minion (MAM) (_Max Plank Institute for Physics | May 2021 - July 2021_)** 
+
+&nbsp;
+&nbsp;
+
+## Teaching Experience 
 
  **Berkeley Student Learning Center** Lab Assistant 
  - [Basic Semiconductor Circuits](https://classes.berkeley.edu/content/2023-spring-physics-111a-101-lec-101) | _Term: Fall 2022 - Spring 2023_
