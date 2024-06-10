@@ -36,13 +36,13 @@ As a summer intern in the [MAGIC telescope group](https://www.mpp.mpg.de/forschu
 ## Teaching Experience 
 
  **Berkeley Student Learning Center** Lab Assistant 
- - [Basic Semiconductor Circuits](https://classes.berkeley.edu/content/2023-spring-physics-111a-101-lec-101) | _Term: Fall 2022 - Spring 2023_
+ - [Basic Semiconductor Circuits](https://classes.berkeley.edu/content/2022-fall-physics-111a-001-lab-001) | _Term: Fall 2022 - Spring 2023_
 &nbsp;
 
 **Berkeley Student Learning Center** Physics Tutor 
-- [Introductory Electromagnetism, Waves, & Optics](https://classes.berkeley.edu/content/2024-spring-physics-7b-001-lec-001) | _Term: Spring 2022_
+- [Introductory Electromagnetism, Waves, & Optics](https://classes.berkeley.edu/content/2022-spring-physics-7b-001-lec-001) | _Term: Spring 2022_
 &nbsp;
 
 **Berkeley Student Learning Center** Physics Tutor
-- [Introductory Physics](https://classes.berkeley.edu/content/2024-spring-physics-8a-001-lec-001) | _Term: Fall 2021 - Fall 2022_
+- [Introductory Physics](https://classes.berkeley.edu/content/2021-fall-physics-8a-002-lec-002) | _Term: Fall 2021 - Fall 2022_
 &nbsp;
