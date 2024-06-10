@@ -20,7 +20,7 @@ Implemented different an attention U-Net based architecture to segment the inner
 
 **ALULA Avionics System** \
 _Berkeley STAR | August 2022 - May 2023_\
-As the avionics lead for Berkeley's competition rocketry team, [STAR](https://stars.studentorg.berkeley.edu/subteams.html), I oversaw the design and integration of the electronics in system used in the liquid engine test stand. We designed, assembled, and tested PCBs used during hot fire tests of the team's first liquid engine rocket. I and the rest of the avionics subteam were rsponsible for  control and monitoring of combustion during hotfire, which included integrating  sensors, microcontrollers, and communication systems. Adapted versions of these circuit board designs were implemented in STAR's first liquid engine flight vehicle, ALULA. 
+As the avionics lead for Berkeley's competition rocketry team, [STAR](https://stars.studentorg.berkeley.edu/subteams.html), I oversaw the design and integration of the electronics in system used in the liquid engine test stand. We designed, assembled, and tested PCBs used during hot fire tests of the team's first liquid engine rocket. I and the rest of the avionics subteam were responsible for  control and monitoring of combustion during hotfire, which included integrating  sensors, microcontrollers, and communication systems. Adapted versions of these circuit board designs were implemented in STAR's first liquid engine flight vehicle, ALULA. 
 
 **MR to CT Translation Using Deep Learning** \
 _GE HealthCare | May 2022 - August 2022_\
