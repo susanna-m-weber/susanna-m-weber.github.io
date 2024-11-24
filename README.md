@@ -1,5 +1,5 @@
 ## Research 
-I’m currently a Biomedical Engineering graduate student at Columbia University, where I'm advised by [Dr. Christoph Juchem](https://www.engineering.columbia.edu/faculty/christoph-juchem) as part of the [MR SCIENCE Lab](https://juchem.bme.columbia.edu/). My resarch focuses on designing and building coils for multi-coil cardiac shimming - improving the homogeneity of the B0 field to acquire diagnostically useful images at high fields.  
+I’m currently a Biomedical Engineering graduate student at Columbia University, where I'm advised by [Dr. Christoph Juchem](https://www.engineering.columbia.edu/faculty/christoph-juchem) as part of the [MR SCIENCE Lab](https://juchem.bme.columbia.edu/). My resarch focuses on designing and building coils for multi-coil cardiac shimming - improving the homogeneity of the B0 field to acquire diagnostically useful images at high fields. I also work with [Dr. Leeor Alon](https://med.nyu.edu/faculty/leeor-alon) at NYU Radiology on low-field MRI, specifically implementing active shimming for Zeugmatron Z1, a 43 mT portable scanner built during the [2023 MRI4All Hackathon](https://github.com/mri4all).
 
 &nbsp;
 &nbsp;
@@ -15,7 +15,7 @@ I’m currently a Biomedical Engineering graduate student at Columbia University
 ## Past Projects
 
 **Cardiac MRI Segmentation Using U-Nets** \
-_Columbia University, BMEN 4460 | May 2023_ \
+_Columbia University, BMEN 4460 | May 2024_ \
 Implemented different an attention U-Net based architecture to segment the inner and outer wall of the right ventricle. The model was pre-trained using a 2D whole heart segmentation task using magnitude cardiac scans. Ventricle segmentation was performed on  short axis cine scans from the [The Right Ventricle Segmentation Challenge dataset](https://rvsc.projets.litislab.fr/). The current iteration of the model achieves a test DICE score of 0.8, on par with the leading three published models trained on the challenge dataset (see [Tran 2017](https://arxiv.org/abs/1604.00494)).
 
 **ALULA Avionics System** \
