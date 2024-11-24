@@ -1,11 +1,11 @@
 ## Research 
-I’m currently a Biomedical Engineering Ph.D. student at Columbia University, where I'm advised by [Dr. Christoph Juchem](https://www.engineering.columbia.edu/faculty/christoph-juchem) as part of the [MR SCIENCE Lab](https://juchem.bme.columbia.edu/). My resarch focuses on designing and building coils for multi-coil cardiac shimming - improving the homogeneity of the B0 field to acquire diagnostically useful images at high fields.  
+I’m currently a Biomedical Engineering graduate student at Columbia University, where I'm advised by [Dr. Christoph Juchem](https://www.engineering.columbia.edu/faculty/christoph-juchem) as part of the [MR SCIENCE Lab](https://juchem.bme.columbia.edu/). My resarch focuses on designing and building coils for multi-coil cardiac shimming - improving the homogeneity of the B0 field to acquire diagnostically useful images at high fields.  
 
 &nbsp;
 &nbsp;
 
 ## Education
-- Ph.D., Biomedical Engineering | Columbia University
+- M.S., Biomedical Engineering | Columbia University (_expected December 2024_)
 - B.A., Physics | University of California, Berkeley (_May 2023_)           		
 - Minor, EECS | University of California, Berkeley (_May 2023_) 			        		
 
