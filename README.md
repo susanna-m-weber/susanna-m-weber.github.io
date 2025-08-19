@@ -1,11 +1,11 @@
 ## Research 
-I’m currently a Biomedical Engineering graduate student at Columbia University, where I'm advised by [Dr. Christoph Juchem](https://www.engineering.columbia.edu/faculty/christoph-juchem) as part of the [MR SCIENCE Lab](https://juchem.bme.columbia.edu/). My resarch focuses on designing and building coils for multi-coil cardiac shimming - improving the homogeneity of the B0 field to acquire diagnostically useful images at high fields. I also work with [Dr. Leeor Alon](https://med.nyu.edu/faculty/leeor-alon) at NYU Radiology on low-field MRI, specifically implementing active shimming for Zeugmatron Z1, a 43 mT portable scanner built during the [2023 MRI4All Hackathon](https://github.com/mri4all).
+I’m currently a first year PhD student at the Vilcek Institute of Graduate Biomedical Sciences at NYU Langone. Previously, I completed my Master's in Biomedical Engineering at Columbia University, where I was advised by [Dr. Christoph Juchem](https://www.engineering.columbia.edu/faculty/christoph-juchem) as part of the [MR SCIENCE Lab](https://juchem.bme.columbia.edu/). My resarch focuses on designing and building coils for multi-coil cardiac shimming - improving the homogeneity of the B0 field to acquire diagnostically useful images at high fields. Before starting my PhD, I worked  with [Dr. Leeor Alon](https://med.nyu.edu/faculty/leeor-alon) at NYU Radiology on low-field MRI, specifically active shimming at low fields, as well as using MR thermometry for absolute temperature measurements.
 
 &nbsp;
 &nbsp;
 
 ## Education
-- M.S., Biomedical Engineering | Columbia University (_expected December 2024_)
+- M.S., Biomedical Engineering | Columbia University (_December 2024_)
 - B.A., Physics | University of California, Berkeley (_May 2023_)           		
 - Minor, EECS | University of California, Berkeley (_May 2023_) 			        		
 
